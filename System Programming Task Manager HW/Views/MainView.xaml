@@ -1,0 +1,25 @@
+﻿<Window x:Class="System_Programming_Task_Manager_HW.Views.MainView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:System_Programming_Task_Manager_HW.Views"
+        mc:Ignorable="d"
+        Title="MainView" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <DataGrid Name="ProcessDataGrid" Margin="0 0 0 60" Height="300" SelectedItem="{Binding SelectedRow, Mode=TwoWay}">
+        
+            </DataGrid>
+
+            <StackPanel Orientation="Horizontal">
+                
+                <TextBox Name="CommandTB" Width="150" Height="23" HorizontalAlignment="Left" Margin="40 0 0 0"/>
+                <Button Content="Create Process" Width="130" Height="23" HorizontalAlignment="Right" Margin="280 0 0 0" Command="{Binding CreateProcessBtCommand}"/>
+                <Button Content="End Process" Width="130" Height="23" HorizontalAlignment="Right" Margin="40 0 0 0" Command="{Binding EndProcessBtCommand}"/>
+            </StackPanel>
+        </StackPanel>
+
+
+    </Grid>
+</Window>

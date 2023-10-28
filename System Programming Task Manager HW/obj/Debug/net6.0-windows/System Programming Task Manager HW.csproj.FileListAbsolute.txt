@@ -1,0 +1,21 @@
+C:\Users\hasan\WPF Projects\System Programming Task Manager HW\System Programming Task Manager HW\bin\Debug\net6.0-windows\System Programming Task Manager HW.exe
+C:\Users\hasan\WPF Projects\System Programming Task Manager HW\System Programming Task Manager HW\bin\Debug\net6.0-windows\System Programming Task Manager HW.deps.json
+C:\Users\hasan\WPF Projects\System Programming Task Manager HW\System Programming Task Manager HW\bin\Debug\net6.0-windows\System Programming Task Manager HW.runtimeconfig.json
+C:\Users\hasan\WPF Projects\System Programming Task Manager HW\System Programming Task Manager HW\bin\Debug\net6.0-windows\System Programming Task Manager HW.dll
+C:\Users\hasan\WPF Projects\System Programming Task Manager HW\System Programming Task Manager HW\bin\Debug\net6.0-windows\System Programming Task Manager HW.pdb
+C:\Users\hasan\WPF Projects\System Programming Task Manager HW\System Programming Task Manager HW\obj\Debug\net6.0-windows\System Programming Task Manager HW.csproj.AssemblyReference.cache
+C:\Users\hasan\WPF Projects\System Programming Task Manager HW\System Programming Task Manager HW\obj\Debug\net6.0-windows\Views\MainView.g.cs
+C:\Users\hasan\WPF Projects\System Programming Task Manager HW\System Programming Task Manager HW\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\hasan\WPF Projects\System Programming Task Manager HW\System Programming Task Manager HW\obj\Debug\net6.0-windows\System Programming Task Manager HW_MarkupCompile.cache
+C:\Users\hasan\WPF Projects\System Programming Task Manager HW\System Programming Task Manager HW\obj\Debug\net6.0-windows\System Programming Task Manager HW_MarkupCompile.lref
+C:\Users\hasan\WPF Projects\System Programming Task Manager HW\System Programming Task Manager HW\obj\Debug\net6.0-windows\Views\MainView.baml
+C:\Users\hasan\WPF Projects\System Programming Task Manager HW\System Programming Task Manager HW\obj\Debug\net6.0-windows\System Programming Task Manager HW.g.resources
+C:\Users\hasan\WPF Projects\System Programming Task Manager HW\System Programming Task Manager HW\obj\Debug\net6.0-windows\System Programming Task Manager HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\WPF Projects\System Programming Task Manager HW\System Programming Task Manager HW\obj\Debug\net6.0-windows\System Programming Task Manager HW.AssemblyInfoInputs.cache
+C:\Users\hasan\WPF Projects\System Programming Task Manager HW\System Programming Task Manager HW\obj\Debug\net6.0-windows\System Programming Task Manager HW.AssemblyInfo.cs
+C:\Users\hasan\WPF Projects\System Programming Task Manager HW\System Programming Task Manager HW\obj\Debug\net6.0-windows\System Programming Task Manager HW.csproj.CoreCompileInputs.cache
+C:\Users\hasan\WPF Projects\System Programming Task Manager HW\System Programming Task Manager HW\obj\Debug\net6.0-windows\System Programming Task Manager HW.dll
+C:\Users\hasan\WPF Projects\System Programming Task Manager HW\System Programming Task Manager HW\obj\Debug\net6.0-windows\refint\System Programming Task Manager HW.dll
+C:\Users\hasan\WPF Projects\System Programming Task Manager HW\System Programming Task Manager HW\obj\Debug\net6.0-windows\System Programming Task Manager HW.pdb
+C:\Users\hasan\WPF Projects\System Programming Task Manager HW\System Programming Task Manager HW\obj\Debug\net6.0-windows\System Programming Task Manager HW.genruntimeconfig.cache
+C:\Users\hasan\WPF Projects\System Programming Task Manager HW\System Programming Task Manager HW\obj\Debug\net6.0-windows\ref\System Programming Task Manager HW.dll
